@@ -43,4 +43,8 @@ The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE
 
 ---
 
-## 📂 Repository Structure
+## 📌 Future Improvements
+- Port game to **SDL2 / SFML** for modern OS support  
+- Add **levels & difficulty modes**  
+- Export as **WebAssembly (Web playable)**  
+
