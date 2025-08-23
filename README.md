@@ -18,14 +18,11 @@ The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE
 ---
 
 ## 🖼️ Screenshots
-*(Add screenshots here – e.g., gameplay, start screen, game over screen)*  
-<img width="509" height="412" alt="image" src="https://github.com/user-attachments/assets/8a8bdab1-a34d-4e7f-ba53-ecdf0400522c" />
-<img width="514" height="411" alt="image" src="https://github.com/user-attachments/assets/17fd78e6-e573-4313-98c1-68479e8305b7" />
+<img width="513" height="383" alt="image" src="https://github.com/user-attachments/assets/fd280ad1-7dd0-49d2-8d43-321ce0e35dc1" />
 
 <img width="635" height="478" alt="image" src="https://github.com/user-attachments/assets/6aaaa4d4-ffe2-42d5-9fc0-2de2e5d4d3b5" />
 
-
-<img width="572" height="468" alt="image" src="https://github.com/user-attachments/assets/b0f610ba-25d7-4eb2-b691-2dfcc25e9ca3" />
+<img width="572" height="436" alt="image" src="https://github.com/user-attachments/assets/e6c81608-c87c-4d1c-8fd5-8a583ea6eb3a" />
 
 
 ---
