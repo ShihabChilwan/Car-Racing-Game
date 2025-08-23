@@ -1,6 +1,6 @@
 # 🚗 Car Racing Game (C with Turbo C Graphics)
 
-A simple lane-based **car racing game** developed in **C** as part of my Computer Graphics and Gaming course.  
+A simple lane-based **car racing game** developed in **C** language.
 The game uses Turbo C graphics (BGI library) and runs on DOSBox or Turbo C++ IDE.
 
 ---
